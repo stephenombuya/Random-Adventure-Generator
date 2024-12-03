@@ -15,7 +15,7 @@ Adventure Scenario Generator is a Python automation script that creates unique, 
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/adventure-generator.git
+git clone https://github.com/stephenombuya/Random-Adventure-Generator
 cd adventure-generator
 ```
 
